@@ -216,5 +216,4 @@ Generating data-driven insights using SQL
 
 👩‍💻 Author
 
-Sakshi Ingale
-
+Harsh Bhardwaj
